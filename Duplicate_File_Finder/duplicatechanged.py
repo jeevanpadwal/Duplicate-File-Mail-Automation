@@ -226,7 +226,7 @@ class DuplicateFileFinder:
         try:
             ########### Email setup  ##############
             sender_email = "supercoin2002@gmail.com"
-            password = "qvbitgkjtejhifdt"
+            password = "*****************"
             log_file = self.generate_log(self.duplicates)  ################## Generates log for email #################
             subject = "Duplicate Files Report"
             body = "Please find the attached duplicate files report."
